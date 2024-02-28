@@ -12,7 +12,7 @@ dropout = 0.1           # Dropout = 0.1 is used with ViT-Base & ImageNet-21k
 num_classes = 10        # Number of classes in CIFAR10 dataset
 size = 224              # Size used for training = 224
 
-epochs = 10             # Number of epochs
+epochs = 1             # Number of epochs
 base_lr = 10e-3         # Base LR
 weight_decay = 0.03     # Weight decay for ViT-Base (on ImageNet-21k)
-batch_size = 4
+batch_size = 16

@@ -1,3 +1,5 @@
+![Vision Transformer](https://miro.medium.com/v2/resize:fit:1358/1*inc9Sty8xMFNNYlNVn9iBQ.png)
+
 # Vision Transformer (ViT)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
